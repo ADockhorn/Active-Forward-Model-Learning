@@ -1,0 +1,12 @@
+Randomly generated level, shortest sequence = 0
+10,10
+wwwwwwwwww
+wwwwwwwwww
+wwwwwwwwww
+wwwwwwww.w
+w.wwwww..w
+w.wwwww*.w
+wo*A*....w
+w....w.oow
+wwwwwwwwww
+wwwwwwwwww
